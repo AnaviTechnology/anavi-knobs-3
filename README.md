@@ -2,11 +2,15 @@
 
 **Open source programmable keypad with 3 rotary encoders**
 
-ANAVI Knobs 3 is an open source, custom-programmable, mini 2-key keyboard/keypad. Each rotary encoder is also a key and can be reprogrammed to activate a macro or even a dedicated shortcut.
+![ANAVI Knobs 3](https://github.com/AnaviTechnology/anavi-knobs-3/blob/main/images/anavi-knobs-3-01.jpg?raw=true)
+
+ANAVI Knobs 3 offers three rotary encoders with clickable switches and a RGB LED. The black, gold-plated PCB also features an I²C slot for adding peripherals such as a mini OLED display. Each rotary encoder is also a key and can be reprogrammed to activate a macro or even a dedicated shortcut.
+
+![ANAVI Knobs 3](https://github.com/AnaviTechnology/anavi-knobs-3/blob/main/images/anavi-knobs-3-02.jpg?raw=true)
 
 ANAVI Knobs 3 has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad-pcb.org/).
 
-For more details please visit https://anavi.technology/
+[ANAVI Knobs 3, ANAVI Knob 1 and ANAVI Macro Pad 10 were brought to market through a crowdfunding campaign at Crowd Supply](https://www.crowdsupply.com/anavi-technology/anavi-macro-pad-10). For more details please visit https://anavi.technology/
 
 # License
 
